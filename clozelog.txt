@@ -1,0 +1,5 @@
+
+Partial Text: Lizards can scale -----
+Cloze Text: walls
+Full Text: Lizards can scale walls
+================

@@ -1,0 +1,22 @@
+{
+  "name": "closecards",
+  "version": "1.0.0",
+  "description": "Node flip card game",
+  "main": "(CLI.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthinhtruong/Flashcard-Generator.git"
+  },
+  "author": "Ana Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthinhtruong/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/anthinhtruong/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
